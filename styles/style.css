@@ -1,0 +1,19 @@
+.title {
+text-align: center;
+background-color: orange;
+}
+
+.parent-list{
+    text-align: center;
+}
+
+.parent-list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.parent-list ul li{
+    margin: 0;
+    padding: 0;
+}
