@@ -1,5 +1,7 @@
 .title {
+outline:2px solid red;
 text-align: center;
+padding: 50px;
 background-color: orange;
 }
 /* 
